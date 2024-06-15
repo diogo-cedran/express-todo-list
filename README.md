@@ -54,6 +54,6 @@ Este é um API construída com **Node.js**, **Typescript**, **Express**, **Prism
 - **DELETE /tasks/id**
   - Deleta uma tarefa por ID.
 
-### Link do site no GitHub Pages 🌐
+## Link do site no GitHub Pages 🌐
 
 https://diogo-cedran.github.io/express-todo-list/
